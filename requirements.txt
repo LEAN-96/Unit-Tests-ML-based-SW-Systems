@@ -1,0 +1,4 @@
+# Third-party Libraries
+pandas==1.5.3          # For data manipulation (used in Unit_Test.py)
+numpy==1.24.2          # For numerical operations (used in Unit_Test.py)
+scikit-learn==1.2.1    # For machine learning operations (used in Unit_TheAlgorithm.py and Unit_Test.py)
